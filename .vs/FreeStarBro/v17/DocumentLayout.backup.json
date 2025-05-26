@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC2169E-3C26-4883-9D25-3647B2E92C60}|FreeStarBro.csproj|c:\\users\\freestar\\documents\\my games\\terraria\\tmodloader\\modsources\\freestarbro\\content\\tiles\\itemcollectortile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC2169E-3C26-4883-9D25-3647B2E92C60}|FreeStarBro.csproj|solutionrelative:content\\tiles\\itemcollectortile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC2169E-3C26-4883-9D25-3647B2E92C60}|FreeStarBro.csproj|c:\\users\\freestar\\documents\\my games\\terraria\\tmodloader\\modsources\\freestarbro\\content\\tiles\\itemcollectorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC2169E-3C26-4883-9D25-3647B2E92C60}|FreeStarBro.csproj|solutionrelative:content\\tiles\\itemcollectorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC2169E-3C26-4883-9D25-3647B2E92C60}|FreeStarBro.csproj|c:\\users\\freestar\\documents\\my games\\terraria\\tmodloader\\modsources\\freestarbro\\content\\npcs\\bronpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC2169E-3C26-4883-9D25-3647B2E92C60}|FreeStarBro.csproj|solutionrelative:content\\npcs\\bronpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC2169E-3C26-4883-9D25-3647B2E92C60}|FreeStarBro.csproj|c:\\users\\freestar\\documents\\my games\\terraria\\tmodloader\\modsources\\freestarbro\\content\\items\\travelingmerchantsummon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC2169E-3C26-4883-9D25-3647B2E92C60}|FreeStarBro.csproj|solutionrelative:content\\items\\travelingmerchantsummon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC2169E-3C26-4883-9D25-3647B2E92C60}|FreeStarBro.csproj|c:\\users\\freestar\\documents\\my games\\terraria\\tmodloader\\modsources\\freestarbro\\content\\items\\wallbreaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC2169E-3C26-4883-9D25-3647B2E92C60}|FreeStarBro.csproj|solutionrelative:content\\items\\wallbreaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC2169E-3C26-4883-9D25-3647B2E92C60}|FreeStarBro.csproj|c:\\users\\freestar\\documents\\my games\\terraria\\tmodloader\\modsources\\freestarbro\\localization\\en-us_mods.freestarbro.hjson||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9EC2169E-3C26-4883-9D25-3647B2E92C60}|FreeStarBro.csproj|solutionrelative:localization\\en-us_mods.freestarbro.hjson||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC2169E-3C26-4883-9D25-3647B2E92C60}|FreeStarBro.csproj|c:\\users\\freestar\\documents\\my games\\terraria\\tmodloader\\modsources\\freestarbro\\content\\items\\fsword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC2169E-3C26-4883-9D25-3647B2E92C60}|FreeStarBro.csproj|solutionrelative:content\\items\\fsword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC2169E-3C26-4883-9D25-3647B2E92C60}|FreeStarBro.csproj|c:\\users\\freestar\\documents\\my games\\terraria\\tmodloader\\modsources\\freestarbro\\description.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9EC2169E-3C26-4883-9D25-3647B2E92C60}|FreeStarBro.csproj|solutionrelative:description.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC2169E-3C26-4883-9D25-3647B2E92C60}|FreeStarBro.csproj|c:\\users\\freestar\\documents\\my games\\terraria\\tmodloader\\modsources\\freestarbro\\freestarbro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC2169E-3C26-4883-9D25-3647B2E92C60}|FreeStarBro.csproj|solutionrelative:freestarbro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC2169E-3C26-4883-9D25-3647B2E92C60}|FreeStarBro.csproj|c:\\users\\freestar\\documents\\my games\\terraria\\tmodloader\\modsources\\freestarbro\\build.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9EC2169E-3C26-4883-9D25-3647B2E92C60}|FreeStarBro.csproj|solutionrelative:build.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC2169E-3C26-4883-9D25-3647B2E92C60}|FreeStarBro.csproj|c:\\users\\freestar\\documents\\my games\\terraria\\tmodloader\\modsources\\freestarbro\\content\\items\\travelingmerchantsummon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{9EC2169E-3C26-4883-9D25-3647B2E92C60}|FreeStarBro.csproj|solutionrelative:content\\items\\travelingmerchantsummon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC2169E-3C26-4883-9D25-3647B2E92C60}|FreeStarBro.csproj|c:\\users\\freestar\\documents\\my games\\terraria\\tmodloader\\modsources\\freestarbro\\content\\items\\wallbreaker.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{9EC2169E-3C26-4883-9D25-3647B2E92C60}|FreeStarBro.csproj|solutionrelative:content\\items\\wallbreaker.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC2169E-3C26-4883-9D25-3647B2E92C60}|FreeStarBro.csproj|c:\\users\\freestar\\documents\\my games\\terraria\\tmodloader\\modsources\\freestarbro\\content\\items\\fsword.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{9EC2169E-3C26-4883-9D25-3647B2E92C60}|FreeStarBro.csproj|solutionrelative:content\\items\\fsword.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 255,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "build.txt",
+              "DocumentMoniker": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\build.txt",
+              "RelativeDocumentMoniker": "build.txt",
+              "ToolTip": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\build.txt",
+              "RelativeToolTip": "build.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-18T05:38:28.131Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BroNPC.cs",
+              "DocumentMoniker": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\Content\\NPCs\\BroNPC.cs",
+              "RelativeDocumentMoniker": "Content\\NPCs\\BroNPC.cs",
+              "ToolTip": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\Content\\NPCs\\BroNPC.cs",
+              "RelativeToolTip": "Content\\NPCs\\BroNPC.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAAALoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:38:59.1Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemCollectorTile.cs",
+              "DocumentMoniker": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\Content\\Tiles\\ItemCollectorTile.cs",
+              "RelativeDocumentMoniker": "Content\\Tiles\\ItemCollectorTile.cs",
+              "ToolTip": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\Content\\Tiles\\ItemCollectorTile.cs",
+              "RelativeToolTip": "Content\\Tiles\\ItemCollectorTile.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwFkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T03:11:13.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemCollectorEntity.cs",
+              "DocumentMoniker": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\Content\\Tiles\\ItemCollectorEntity.cs",
+              "RelativeDocumentMoniker": "Content\\Tiles\\ItemCollectorEntity.cs",
+              "ToolTip": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\Content\\Tiles\\ItemCollectorEntity.cs",
+              "RelativeToolTip": "Content\\Tiles\\ItemCollectorEntity.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T03:10:57.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WallBreaker.cs",
+              "DocumentMoniker": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\Content\\Items\\WallBreaker.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\WallBreaker.cs",
+              "ToolTip": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\Content\\Items\\WallBreaker.cs",
+              "RelativeToolTip": "Content\\Items\\WallBreaker.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAADwv1QAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T01:48:35.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TravelingMerchantSummon.cs",
+              "DocumentMoniker": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\Content\\Items\\TravelingMerchantSummon.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\TravelingMerchantSummon.cs",
+              "ToolTip": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\Content\\Items\\TravelingMerchantSummon.cs",
+              "RelativeToolTip": "Content\\Items\\TravelingMerchantSummon.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwD4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T01:38:41.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "en-US_Mods.FreeStarBro.hjson",
+              "DocumentMoniker": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\Localization\\en-US_Mods.FreeStarBro.hjson",
+              "RelativeDocumentMoniker": "Localization\\en-US_Mods.FreeStarBro.hjson",
+              "ToolTip": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\Localization\\en-US_Mods.FreeStarBro.hjson",
+              "RelativeToolTip": "Localization\\en-US_Mods.FreeStarBro.hjson",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-18T09:18:02.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FSword.cs",
+              "DocumentMoniker": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\Content\\Items\\FSword.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\FSword.cs",
+              "ToolTip": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\Content\\Items\\FSword.cs",
+              "RelativeToolTip": "Content\\Items\\FSword.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T01:42:03.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "description.txt",
+              "DocumentMoniker": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\description.txt",
+              "RelativeDocumentMoniker": "description.txt",
+              "ToolTip": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\description.txt",
+              "RelativeToolTip": "description.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-18T06:29:32.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TravelingMerchantSummon.png",
+              "DocumentMoniker": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\Content\\Items\\TravelingMerchantSummon.png",
+              "RelativeDocumentMoniker": "Content\\Items\\TravelingMerchantSummon.png",
+              "ToolTip": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\Content\\Items\\TravelingMerchantSummon.png",
+              "RelativeToolTip": "Content\\Items\\TravelingMerchantSummon.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-31T01:54:29.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FreeStarBro.cs",
+              "DocumentMoniker": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\FreeStarBro.cs",
+              "RelativeDocumentMoniker": "FreeStarBro.cs",
+              "ToolTip": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\FreeStarBro.cs",
+              "RelativeToolTip": "FreeStarBro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:47:50.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WallBreaker.png",
+              "DocumentMoniker": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\Content\\Items\\WallBreaker.png",
+              "RelativeDocumentMoniker": "Content\\Items\\WallBreaker.png",
+              "ToolTip": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\Content\\Items\\WallBreaker.png",
+              "RelativeToolTip": "Content\\Items\\WallBreaker.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-31T01:54:23.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FSword.png",
+              "DocumentMoniker": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\Content\\Items\\FSword.png",
+              "RelativeDocumentMoniker": "Content\\Items\\FSword.png",
+              "ToolTip": "C:\\Users\\FreeStar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FreeStarBro\\Content\\Items\\FSword.png",
+              "RelativeToolTip": "Content\\Items\\FSword.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-31T02:03:53.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 145,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dee22b65-9761-4a26-8fb2-759b971d6dfc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

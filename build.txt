@@ -1,0 +1,3 @@
+displayName = FreeStarBro
+author = FreeStar
+version = 0.1

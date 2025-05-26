@@ -1,0 +1,71 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	FSword: {
+		DisplayName: 超之剑
+		Tooltip:
+			'''
+			·老弟之剑
+			·这是一把充满传奇的彩虹剑！相传，某个平凡的下午，慧超在峡谷遛弯儿时，在龙坑找到了这把七彩炫酷的宝剑。
+			·貌似是程咬金掉的，血量越低，伤害越高，剑身也会变大，Amazing！！！
+			·剑柄刻着"超之剑"三个字，据说这是只有"兄弟情义"爆表的勇者才能挥舞的神器。
+			·只有老弟用的时候，才会使出它真正的实力。老弟一边喊"哥哥稳住，我来啦！"，一边猛冲敌阵。
+
+
+			'''
+	}
+
+	TravelingMerchantSummon: {
+		DisplayName: 旅商的召唤铃
+		Tooltip:
+			'''
+			召唤旅商到你的位置
+			"叮铃铃~旅商马上就到！"
+			'''
+	}
+
+	WallBreaker: {
+		DisplayName: 墙壁雷管
+		Tooltip:
+			'''
+			专门用于破坏墙壁的爆破工具
+			不会破坏任何方块
+			范围：10格半径
+			"轰！墙没了！"
+			'''
+	}
+
+	ItemCollector: {
+		DisplayName: 物品收集器
+		Tooltip:
+			'''
+			自动收集周围20格范围内的物品
+			存入15格范围内的箱子
+			"懒人必备自动收集机！"
+			'''
+	}
+
+	MakaHead: {
+		DisplayName: 玛卡巴卡大头贴
+		Tooltip: 慧章专属！
+	}
+
+	YiguHead: {
+		DisplayName: 依古比古大头贴
+		Tooltip: 慧超专属！
+	}
+
+	SlimeRainSummon: {
+		DisplayName: 史莱姆雨召唤物
+		Tooltip: 用来召唤史莱姆雨
+	}
+}
+
+NPCs: {
+	BroNPC: {
+		DisplayName: 老弟
+		Census.SpawnCondition: 要求不多，包里有个木头就行！
+	}
+}
+
+Tiles.ItemCollectorTile.MapEntry: Item Collector Tile
