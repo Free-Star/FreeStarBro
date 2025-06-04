@@ -23,3 +23,11 @@ FreeStarBro 是一个 tModLoader 模组，提供了若干自定义道具与 NPC�
 - `build.txt` 与 `description.txt` 分别记录模组元信息与描述（尚待完善）。
 
 本仓库的源代码位于 `Content` 目录下，包含所有道具、NPC 与 Tile 的实现文件，适用于 tModLoader 环境。
+
+## 构建与运行
+
+在开始之前，请确保已经安装好 [tModLoader](https://github.com/tModLoader/tModLoader) 与 [.NET SDK](https://dotnet.microsoft.com/download)（建议使用 6.0 及以上版本）。
+
+开发时可将本仓库放入 `tModLoader/ModSources` 文件夹中。该目录一般位于 `Documents/My Games/Terraria/tModLoader/ModSources`（Windows）或 `~/.local/share/Terraria/tModLoader/ModSources`（Linux）。
+
+进入项目目录后，可通过 `dotnet build` 或在 tModLoader 的 "Mod Sources" 菜单中选择 **Build + Reload** 来编译并载入模组。构建完成后，在 tModLoader 的 "Mods" 菜单中启用 FreeStarBro 即可开始游玩。
