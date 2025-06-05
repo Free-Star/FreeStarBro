@@ -16,7 +16,9 @@ namespace FreeStarBro.Content.Subworlds
 
             if (!SubworldSystem.IsActive<OceanSubworld>())
             {
+
                 // 靠近右边提示
+
                 if (!approachMessageShown && tileX >= Main.maxTilesX - 50 && Main.myPlayer == Player.whoAmI)
                 {
                     Main.NewText(Language.GetTextValue("Mods.FreeStarBro.OceanSubworld.ApproachMessage"), Color.Aqua);
@@ -27,7 +29,9 @@ namespace FreeStarBro.Content.Subworlds
                     approachMessageShown = false;
                 }
 
+
                 // 进入子世界
+
                 if (tileX >= Main.maxTilesX - 2 && Main.myPlayer == Player.whoAmI)
                 {
                     Main.NewText(Language.GetTextValue("Mods.FreeStarBro.OceanSubworld.EnterMessage"), Color.Aqua);
@@ -36,7 +40,9 @@ namespace FreeStarBro.Content.Subworlds
             }
             else
             {
+
                 // 离开子世界
+
                 if (tileX <= 0 && Main.myPlayer == Player.whoAmI)
                 {
                     Main.NewText(Language.GetTextValue("Mods.FreeStarBro.OceanSubworld.ExitMessage"), Color.Aqua);
@@ -46,3 +52,4 @@ namespace FreeStarBro.Content.Subworlds
         }
     }
 }
+
