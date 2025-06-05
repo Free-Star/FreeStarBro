@@ -73,6 +73,7 @@ Tiles.ItemCollectorTile.MapEntry: Item Collector Tile
 Subworlds: {
     OceanSubworld: {
         DisplayName: 海洋群落
+        ApproachMessage: 遥远传来海浪的声音……
         EnterMessage: 你踏入了神秘的海洋群落……
         ExitMessage: 你离开了海洋群落，重新回到主世界
     }
