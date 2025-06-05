@@ -43,8 +43,6 @@ namespace FreeStarBro.Content.Subworlds
                 {
                     Main.tile[i, j].LiquidAmount = 255;
                     Main.tile[i, j].LiquidType = LiquidID.Water;
-                }
-            }
 
             // 随机生成小岛
             int islandCount = WorldGen.genRand.Next(3, 6);
