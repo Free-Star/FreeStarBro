@@ -41,10 +41,8 @@ namespace FreeStarBro.Content.Subworlds
             {
                 for (int j = (int)Main.worldSurface; j < Main.maxTilesY; j++)
                 {
-                    var tile = Main.tile[i, j];
-                    tile.LiquidAmount = 255;
-                    tile.LiquidType = LiquidID.Water;
-                    Main.tile[i, j] = tile;
+                    Main.tile[i, j].LiquidAmount = 255;
+                    Main.tile[i, j].LiquidType = LiquidID.Water;
                 }
             }
 
